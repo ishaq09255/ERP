@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 line 1 added
+=======
+ine 1 added
+
+line 2 added
+line 3 added
+>>>>>>> de02669de4699ff594d591ad2043ef1513f27e25
